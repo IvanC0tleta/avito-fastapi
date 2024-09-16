@@ -1,0 +1,5 @@
+fastapi[all]~=0.114.0
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic~=2.9.0
