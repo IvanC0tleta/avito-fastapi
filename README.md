@@ -28,13 +28,13 @@
 - Установленный [Docker](https://www.docker.com/get-started).
 - База данных должна быть настроена и доступна, а также должны быть заданы переменные окружения для подключения к базе данных. Если переменные окружения не заданы, но существует и запущена база данных, необходимо ввести данные для подключения к ней в файл database.py. Пример таких данных: 
 
-`
-os.environ["POSTGRES_USERNAME"] = "postgres"
-os.environ["POSTGRES_PASSWORD"] = "1234"
-os.environ["POSTGRES_HOST"] = "localhost"
-os.environ["POSTGRES_PORT"] = "5432"
-os.environ["POSTGRES_DATABASE"] = "postgres"
-`
+```plaintext
+      os.environ["POSTGRES_USERNAME"] = "postgres"
+      os.environ["POSTGRES_PASSWORD"] = "1234"
+      os.environ["POSTGRES_HOST"] = "localhost"
+      os.environ["POSTGRES_PORT"] = "5432"
+      os.environ["POSTGRES_DATABASE"] = "postgres"
+```
 
 ### Шаги для запуска:
 1. Скачайте или клонируйте репозиторий:
