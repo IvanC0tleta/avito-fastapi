@@ -3,6 +3,10 @@
 
 Проект написан на FastAPI, с подключением к базе данных Postgres через переменные окружения.
 
+# Запущенный проект на codenrock.com. 
+Ссылка ведет на автоматическую документацию docs из fastapi приложения
+[avito-fastapi](https://cnrprod1725720661-team-79228-32434.avito2024.codenrock.com/docs)
+
 # Инструкция для запуска FastAPI приложения
 
 ## Структура проекта
@@ -71,7 +75,7 @@ os.environ["POSTGRES_DATABASE"] = "postgres"
 - Виртуальное окружение (рекомендуется).
 
 ### Шаги для запуска:
-1. Клонируйте репозиторий:
+1. Скачайте или клонируйте репозиторий::
     ```bash
     git clone https://github.com/IvanC0tleta/avito-fastapi.git
     ```
