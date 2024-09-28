@@ -1,11 +1,9 @@
 # avito-fastapi
-Тестовое задание для Авито на стажировку для бэкенд разработчиков
-
 Проект написан на FastAPI, с подключением к базе данных Postgres через переменные окружения.
 
 # Запущенный проект на codenrock.com. 
 Ссылка ведет на автоматическую документацию docs из fastapi приложения
-[avito-fastapi](https://cnrprod1725720661-team-79228-32434.avito2024.codenrock.com/docs)
+[ссылка](https://cnrprod1725720661-team-79228-32434.avito2024.codenrock.com/docs)
 
 # Инструкция для запуска FastAPI приложения
 
