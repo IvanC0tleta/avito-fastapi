@@ -1,4 +1,4 @@
-# avito-fastapi
+# fastapi_app
 Проект написан на FastAPI, с подключением к базе данных Postgres через переменные окружения.
 
 # Запущенный проект на codenrock.com. 
